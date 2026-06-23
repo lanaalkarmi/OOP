@@ -1,7 +1,7 @@
 ﻿
 #include <iostream>
 using namespace std;
-
+// hierarchical inheritance
 class shape {
 protected:
     int height;
