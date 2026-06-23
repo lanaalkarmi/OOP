@@ -2,6 +2,7 @@
 using namespace std;
 
 //inheritance --> is a
+//single inheritance
 
 class person {
 protected:
